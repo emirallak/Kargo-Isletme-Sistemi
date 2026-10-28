@@ -81,4 +81,4 @@ kocaeli_cargo_system/
 
 ## Geliştirici
 
-**Muhammed Emir Allak**: [GitHub](https://github.com/emirallak) · [LinkedIn](https://www.linkedin.com/in/muhammedemir-allak-a445a3246/)
+**Muhammed Emir Allak**: [GitHub](https://github.com/emirallak) · [LinkedIn](https://www.linkedin.com/in/muhammed-emir-allak-a445a3246/)
